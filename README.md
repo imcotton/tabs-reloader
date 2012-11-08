@@ -13,7 +13,7 @@ Installation
 #### Google Chrome
 
 * [Chrome Web Store][cws] **(recommended)**  
-* [web site][ws] _(if you're having trouble accessing above)_  
+* [web page][wp] _(if you're having trouble accessing above)_  
 
 
 License
@@ -25,4 +25,4 @@ MIT
 
 
 [cws]: https://chrome.google.com/webstore/detail/tabs-reloader/ofphdlddmcpeggijkmijojknacfnleij
-[ws]: http://www.imcotton.com/misc/tabs-reloader/
+[wp]: http://www.imcotton.com/misc/tabs-reloader/
